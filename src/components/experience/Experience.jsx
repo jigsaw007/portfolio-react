@@ -8,7 +8,7 @@ function Experience() {
             <div className="col-md-12 mx-auto">
                 <div className="col-md-12">
                     <h1 class="section-title">
-                        <span className="text-black" style={{textAlign:'center'}}>Experience</span>
+                        <span className="text-black" style={{textAlign:'center'}}>Experience | Commit </span>
                     </h1>
                 </div>
                 <div className="col-md-8 mx-auto">
