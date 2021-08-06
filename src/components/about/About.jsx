@@ -23,10 +23,7 @@ function About() {
                             <div className="card">
                                 <div className="card-header"></div>
                                 <div className="card-body" style={{fontSize:"120%"}}>
-                                    <span className="wave">Hi
-                                     :) </span>
-                                    <br />
-                                    <br />
+                                    <span className="wave"></span>
                                     👋 Front End Developer / Wordpress Expert / Currently working as System Engineer in Tokyo.
                                 </div>
                             </div>
