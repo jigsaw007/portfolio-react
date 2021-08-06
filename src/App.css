@@ -190,7 +190,7 @@ span i {
 /*Skills*/
 
 #skill{
-    background: black;
+    background: #1f1f1f;
     min-height: 200px;
     width: 100%;
     overflow: hidden;
@@ -209,4 +209,10 @@ span i {
     width: 100px;
     margin: 5px 0;
     border-radius: 8px;
+}
+
+#skill span i {
+    font-size: 340%;
+    letter-spacing: 0px;
+    margin-top: 0px;
 }
