@@ -1,5 +1,5 @@
 import React from 'react'
-import htmlImg from '../../img/html.jpg'
+// import emenu from '../../img/emenu.png'
 import emenu from '../../img/emenu.jpg'
 import webDev from '../../img/web-dev.png'
 import multimedia from '../../img/multimedia.jpg'
