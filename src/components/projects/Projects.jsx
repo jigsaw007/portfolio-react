@@ -1,5 +1,8 @@
 import React from 'react'
 import htmlImg from '../../img/html.jpg'
+import emenu from '../../img/emenu.jpg'
+import webDev from '../../img/web-dev.png'
+import multimedia from '../../img/multimedia.jpg'
 
 function Projects() {
     return (
@@ -11,27 +14,27 @@ function Projects() {
                         <div className="col-sm-12 col-md-6 col-lg-4">
                             <span class="portfolio-item d-block">
                                 <div className="foto">
-                                    <div><img className="projectImg" src={htmlImg}></img>
-                                    <span class="project-date">2008</span><br />
-                                    <p class="project-title-settings mt-3">Coding</p> </div>
+                                    <div><img className="projectImg" src={webDev}></img>
+                                    {/* <span class="project-date">2008</span><br /> */}
+                                    <p class="project-title-settings mt-3">Web Developement</p> </div>
                                 </div>
                             </span>
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-4">
                             <span class="portfolio-item d-block">
                                 <div className="foto">
-                                    <div><img className="projectImg" src={htmlImg}></img>
-                                    <span class="project-date">2008</span><br />
-                                    <p class="project-title-settings mt-3">Coding</p> </div>
+                                    <div><img className="projectImg" src={emenu}></img>
+                                    {/* <span class="project-date">2008</span><br /> */}
+                                    <p class="project-title-settings mt-3">E-Menu Developement</p> </div>
                                 </div>
                             </span>
                         </div>
                         <div className="col-sm-12 col-md-6 col-lg-4">
                             <span class="portfolio-item d-block">
                                 <div className="foto">
-                                    <div><img className="projectImg" src={htmlImg}></img>
-                                    <span class="project-date">2008</span><br />
-                                    <p class="project-title-settings mt-3">Coding</p> </div>
+                                    <div><img className="projectImg" src={multimedia}></img>
+                                    {/* <span class="project-date">2008</span><br /> */}
+                                    <p class="project-title-settings mt-3">Multimedia</p> </div>
                                 </div>
                             </span>
                         </div>

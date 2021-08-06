@@ -76,7 +76,7 @@ function skill() {
                         <li className="list-inline-item mx-3">
                             <span>
                                 <div className="text-center skills-tile">
-                                <i className="fas fa-server"><p style={{fontSize:"25%"}}className="text-center">Server</p></i>
+                                <i class="fas fa-photo-video"><p style={{fontSize:"25%"}}className="text-center">Multimedia</p></i>
                                 </div>
                             </span>
                         </li>
