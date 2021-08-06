@@ -11,7 +11,7 @@ function About() {
                 <div className="row center mx-auto mb-5">
                     <div className="col-md-4 mb-5 center">
                         <div className="polaroid">
-                            <span><img height="400px" src = {Potrait}></img>
+                            <span><img height="200px" src = {Potrait}></img>
                             
                             <i class="fab fa-react"></i>
                             <i class="fab fa-js-square"></i>
